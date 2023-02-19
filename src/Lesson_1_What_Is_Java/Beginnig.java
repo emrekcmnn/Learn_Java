@@ -22,6 +22,16 @@ public class Beginnig {
                                     ----------------------
 
 
+       --------- main() methot-------
+       public static void main(String[] args) { }
+
+Java bir uygulamayı çalıştırdığında (Kaynak kodu derlendiğinde), ilk olarak sınıfın
+ana yöntemini çağırarak başlar. Ana yöntem daha sonra uygulamanızı çalıştırmak
+için gereken diğer tüm yöntemleri çağırır.
+Bu nedenle her
+java uygulaması main metodu içerir
+
+
 
               //binary
         //0 üstlü sayısı için u+2070
