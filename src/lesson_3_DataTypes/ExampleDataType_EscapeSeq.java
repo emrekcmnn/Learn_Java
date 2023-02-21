@@ -1,4 +1,4 @@
-package Lesson_3_DataTypes;
+package lesson_3_DataTypes;
 
 public class ExampleDataType_EscapeSeq {
     public static void main(String[] args) {

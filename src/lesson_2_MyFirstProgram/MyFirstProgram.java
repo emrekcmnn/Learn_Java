@@ -1,4 +1,4 @@
-package Lesson_2_MyFirstProgram;
+package lesson_2_MyFirstProgram;
 
 public class MyFirstProgram {
     public static void main(String[] args) {

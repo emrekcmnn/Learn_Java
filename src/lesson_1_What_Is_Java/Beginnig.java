@@ -1,4 +1,4 @@
-package Lesson_1_What_Is_Java;
+package lesson_1_What_Is_Java;
 
 public class Beginnig {
     public static void main(String[] args) {

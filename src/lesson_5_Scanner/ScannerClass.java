@@ -1,4 +1,4 @@
-package Lesson_5_Scanner;
+package lesson_5_Scanner;
 
 import java.util.Scanner;
 
@@ -43,5 +43,16 @@ public class ScannerClass {
         System.out.print("mat: ");
         double mat= scan.nextDouble();
         System.out.print("ortalama: "+((fiz+kim+mat)/3));
+
+//        Scanner scan=new Scanner(System.in);
+//        System.out.print("yasınız: ");
+//        int x= scan.nextInt();
+//        scan.nextLine();
+//
+//        System.out.print("isminiz nedir: ");
+//        String name=scan.nextLine();
+//        System.out.println("isminiz:"+name+" \n yasiniz: "+x);
+
+
     }
 }

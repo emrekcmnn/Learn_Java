@@ -1,4 +1,4 @@
-package Lesson_4_Operators;
+package lesson_4_Operators;
 
 import java.util.Scanner;
 

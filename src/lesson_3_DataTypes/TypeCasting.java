@@ -1,4 +1,4 @@
-package Lesson_3_DataTypes;
+package lesson_3_DataTypes;
 
 public class TypeCasting {
     public static void main(String[] args) {
